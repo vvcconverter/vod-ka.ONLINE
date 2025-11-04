@@ -1,0 +1,84 @@
+Uri: https://vod-ka.online/
+File Name: C:\Downloaded Web Sites\vod-ka.online\index.htm
+Content Type: text/html
+
+Uri: https://vod-ka.online/wp-content/cache/autoptimize/css/autoptimize_49c217c5564ecfbe903628f531936c3c.css
+File Name: C:\Downloaded Web Sites\vod-ka.online\wp-content\cache\autoptimize\css\autoptimize_49c217c5564ecfbe903628f531936c3c.css
+Content Type: text/css
+
+Uri: https://vod-ka.online/wp-content/cache/autoptimize/css/autoptimize_4d27333d6097073084559bb25c22ba66.css
+File Name: C:\Downloaded Web Sites\vod-ka.online\wp-content\cache\autoptimize\css\autoptimize_4d27333d6097073084559bb25c22ba66.css
+Content Type: text/css
+
+Uri: https://vod-ka.online/wp-content/cache/autoptimize/js/autoptimize_7552c572625a70553a09b1e3e9a95801.js
+File Name: C:\Downloaded Web Sites\vod-ka.online\wp-content\cache\autoptimize\js\autoptimize_7552c572625a70553a09b1e3e9a95801.js
+Content Type: application/javascript
+
+Uri: https://vod-ka.online/wp-content/themes/niorh/images/arrow.svg
+File Name: C:\Downloaded Web Sites\vod-ka.online\wp-content\themes\niorh\images\arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://vod-ka.online/wp-content/themes/niorh/images/bg-left.png
+File Name: C:\Downloaded Web Sites\vod-ka.online\wp-content\themes\niorh\images\bg-left.png
+Content Type: image/png
+
+Uri: https://vod-ka.online/wp-content/themes/niorh/images/icon-new.svg
+File Name: C:\Downloaded Web Sites\vod-ka.online\wp-content\themes\niorh\images\icon-new.svg
+Content Type: image/svg+xml
+
+Uri: https://vod-ka.online/wp-content/uploads/2023/06/cropped-limewin-logo-180x180.webp
+File Name: C:\Downloaded Web Sites\vod-ka.online\wp-content\uploads\2023\06\cropped-limewin-logo-180x180.webp
+Content Type: image/webp
+
+Uri: https://vod-ka.online/wp-content/uploads/2023/06/cropped-limewin-logo-192x192.webp
+File Name: C:\Downloaded Web Sites\vod-ka.online\wp-content\uploads\2023\06\cropped-limewin-logo-192x192.webp
+Content Type: image/webp
+
+Uri: https://vod-ka.online/wp-content/uploads/2023/06/cropped-limewin-logo-32x32.webp
+File Name: C:\Downloaded Web Sites\vod-ka.online\wp-content\uploads\2023\06\cropped-limewin-logo-32x32.webp
+Content Type: image/webp
+
+Uri: https://vod-ka.online/wp-content/uploads/2023/06/logo.webp
+File Name: C:\Downloaded Web Sites\vod-ka.online\wp-content\uploads\2023\06\logo.webp
+Content Type: image/webp
+
+Uri: https://vod-ka.online/wp-content/uploads/2023/06/limewin-zerkalo-300x69.webp
+File Name: C:\Downloaded Web Sites\vod-ka.online\wp-content\uploads\2023\06\limewin-zerkalo-300x69.webp
+Content Type: image/webp
+
+Uri: https://vod-ka.online/wp-content/uploads/2023/06/limewin-zerkalo.webp
+File Name: C:\Downloaded Web Sites\vod-ka.online\wp-content\uploads\2023\06\limewin-zerkalo.webp
+Content Type: image/webp
+
+Uri: https://vod-ka.online/wp-content/uploads/2023/06/limewin-logg.webp
+File Name: C:\Downloaded Web Sites\vod-ka.online\wp-content\uploads\2023\06\limewin-logg.webp
+Content Type: image/webp
+
+Uri: https://vod-ka.online/wp-content/uploads/2023/06/limewin-vhod-300x224.webp
+File Name: C:\Downloaded Web Sites\vod-ka.online\wp-content\uploads\2023\06\limewin-vhod-300x224.webp
+Content Type: image/webp
+
+Uri: https://vod-ka.online/wp-content/uploads/2023/06/limewin-vhod.webp
+File Name: C:\Downloaded Web Sites\vod-ka.online\wp-content\uploads\2023\06\limewin-vhod.webp
+Content Type: image/webp
+
+Uri: https://vod-ka.online/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\vod-ka.online\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://vod-ka.online/wp-json/
+File Name: C:\Downloaded Web Sites\vod-ka.online\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://vod-ka.online/wp-json/oembed/1.0/embed?url=https:%2F%2Fvod-ka.online%2F
+File Name: C:\Downloaded Web Sites\vod-ka.online\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://vod-ka.online/wp-json/oembed/1.0/embed?url=https:%2F%2Fvod-ka.online%2F&format=xml
+File Name: C:\Downloaded Web Sites\vod-ka.online\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://vod-ka.online/wp-json/wp/v2/pages/2
+File Name: C:\Downloaded Web Sites\vod-ka.online\wp-json\wp\v2\pages\2
+Content Type: application/json
+

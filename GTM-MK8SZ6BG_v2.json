@@ -1,0 +1,107 @@
+{
+    "exportFormatVersion": 2,
+    "exportTime": "2025-11-04 08:06:53",
+    "containerVersion": {
+        "path": "accounts/6272676633/containers/208297464/versions/2",
+        "accountId": "6272676633",
+        "containerId": "208297464",
+        "containerVersionId": "2",
+        "container": {
+            "path": "accounts/6272676633/containers/208297464",
+            "accountId": "6272676633",
+            "containerId": "208297464",
+            "name": "vod-ka.online.ru",
+            "publicId": "GTM-MK8SZ6BG",
+            "usageContext": [
+                "WEB"
+            ],
+            "fingerprint": "1741680371932",
+            "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6272676633/containers/208297464/workspaces?apiLink=container",
+            "features": {
+                "supportUserPermissions": true,
+                "supportEnvironments": true,
+                "supportWorkspaces": true,
+                "supportGtagConfigs": false,
+                "supportBuiltInVariables": true,
+                "supportClients": false,
+                "supportFolders": true,
+                "supportTags": true,
+                "supportTemplates": true,
+                "supportTriggers": true,
+                "supportVariables": true,
+                "supportVersions": true,
+                "supportZones": true,
+                "supportTransformations": false
+            },
+            "tagIds": [
+                "GTM-MK8SZ6BG"
+            ]
+        },
+        "tag": [
+            {
+                "accountId": "6272676633",
+                "containerId": "208297464",
+                "tagId": "3",
+                "name": "vod-ka.online",
+                "type": "googtag",
+                "priority": {
+                    "type": "INTEGER",
+                    "value": "1"
+                },
+                "parameter": [
+                    {
+                        "type": "TEMPLATE",
+                        "key": "tagId",
+                        "value": "vod-ka.online"
+                    }
+                ],
+                "fingerprint": "1741675697382",
+                "firingTriggerId": [
+                    "2147479573"
+                ],
+                "tagFiringOption": "ONCE_PER_EVENT",
+                "monitoringMetadata": {
+                    "type": "MAP"
+                },
+                "monitoringMetadataTagNameKey": "vod-ka.online",
+                "consentSettings": {
+                    "consentStatus": "NOT_SET"
+                }
+            }
+        ],
+        "builtInVariable": [
+            {
+                "accountId": "6272676633",
+                "containerId": "208297464",
+                "type": "PAGE_URL",
+                "name": "Page URL"
+            },
+            {
+                "accountId": "6272676633",
+                "containerId": "208297464",
+                "type": "PAGE_HOSTNAME",
+                "name": "Page Hostname"
+            },
+            {
+                "accountId": "6272676633",
+                "containerId": "208297464",
+                "type": "PAGE_PATH",
+                "name": "Page Path"
+            },
+            {
+                "accountId": "6272676633",
+                "containerId": "208297464",
+                "type": "REFERRER",
+                "name": "Referrer"
+            },
+            {
+                "accountId": "6272676633",
+                "containerId": "208297464",
+                "type": "EVENT",
+                "name": "Event"
+            }
+        ],
+        "fingerprint": "1741679749429",
+        "tagManagerUrl": "https://tagmanager.google.com/#/versions/accounts/6272676633/containers/208297464/versions/2?apiLink=version"
+    }
+}
