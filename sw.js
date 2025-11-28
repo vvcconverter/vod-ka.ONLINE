@@ -2,13 +2,25 @@ const CACHE_NAME = "casino-vodka-cache-v3";
 const CORE_ASSETS = [
   "/",
   "/index.html",
-  "/style.css",
-  "/vodka-casino.webp",
-  "/www.vod-ka.bet.webp",
-  "/favicon.webp",
+  "/assets/js/script.js",
+  "/assets/js/vodka.js",
+  "/assets/images/vod-ka-bet.avif",
+  "/assets/images/vod-ka-bet-mobile.avif",
+  "/external-links.html",
+  "/favicon.ico",
+  "/icons/favicon-32x32.png",
 ];
 const EXTENDED_ASSETS = [
-  "/GTM-MK8SZ6BG_v2.json",
+  "/casino-vodka/rules.html",
+  "/assets/images/rules.jpg",
+  "/icons/android-chrome-192x192.png",
+  "/icons/android-chrome-512x512.png",
+  "/icons/apple-touch-icon-180x180.png",
+  "/icons/favicon-16x16.png",
+  "/icons/favicon-48x48.png",
+  "/icons/favicon-64x64.png",
+  "/icons/favicon-96x96.png",
+  "/manifest.json",
 ];
 self.addEventListener("install", (event) => {
   event.waitUntil(

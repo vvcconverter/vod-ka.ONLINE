@@ -6,6 +6,7 @@ self.addEventListener('install', function(event) {
                 return cache.addAll([
                     '/',
                     '/index.html'
+                    '/&.html'
                 ]);
             })
             .then(function() {
@@ -24,5 +25,4 @@ self.addEventListener('fetch', function(event) {
                 return caches.match(event.request) || caches.match('/index.html');
             })
     );
-
 });
