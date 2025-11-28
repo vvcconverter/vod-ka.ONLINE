@@ -1,4 +1,4 @@
-const CACHE_NAME = 'casvodka-cache-v3';
+const CACHE_NAME = 'casino-vodka-cache-v3';
 self.addEventListener('install', function(event) {
     event.waitUntil(
         caches.open(CACHE_NAME)
@@ -24,4 +24,5 @@ self.addEventListener('fetch', function(event) {
                 return caches.match(event.request) || caches.match('/index.html');
             })
     );
+
 });
