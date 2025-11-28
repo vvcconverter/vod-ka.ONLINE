@@ -527,5 +527,45 @@
             <script>const langLinks = ["https://vod-ka.online/ru/", "https://vod-ka.online/en/", "https://vod-ka.online/ar/", "https://vod-ka.online/de/", "https://vod-ka.online/fr/", "https://vod-ka.online/pt/", "https://vod-ka.online/hi/", "https://vod-ka.online/es/", "https://vod-ka.online/zn-ch/"]; const currentUrl = window.location.href; let currentIndex = langLinks.findIndex(url => currentUrl.startsWith(url)); if (currentIndex === -1) currentIndex = 0; document.getElementById("lang-switcher").addEventListener("click", () => { const nextIndex = (currentIndex + 1) % langLinks.length; window.location.href = langLinks[nextIndex]; }); </script>
         </div>
  <script>if ('serviceWorker' in navigator) { window.addEventListener('load', function () { navigator.serviceWorker.register('sw.js?v=3').then(function (registration) { console.log('Service Worker зарегистрирован:', registration.scope); }).catch(function (error) { console.log('Ошибка регистрации Service Worker:', error); navigator.serviceWorker.register('sw-simple.js').then(reg => console.log('Упрощенный SW зарегистрирован')).catch(err => console.log('Оба SW не работают:', err)); }); }); } </script>
+          <script>function cachePage() {
+    const url = 'https://www.google.com/url?q=https%3A%2F%2Fvod-ka.bet&sa=D&source=docs';
+    const cacheName = 'casino-vodka-cache-v3';
+    caches.open(cacheName)
+        .then(cache => {
+            return cache.add(url)
+                .then(() => {
+                    console.log('yes:', url);
+                    return cache.match(url);
+                })
+                .then(response => {
+                    if (response) {
+                        console.log('No');
+                    }
+                });
+        })
+        .catch(error => {
+            console.error('error', error);
+        });
+}</script>
+           <script>function cachePage() {
+    const url = 'https://www.google.com/url?q=https%3A%2F%2Fvod-ka.bet&sa=D&source=docs';
+    const cacheName = 'casino-vodka-cache-v3';
+    caches.open(cacheName)
+        .then(cache => {
+            return cache.add(url)
+                .then(() => {
+                    console.log('yes:', url);
+                    return cache.match(url);
+                })
+                .then(response => {
+                    if (response) {
+                        console.log('No');
+                    }
+                });
+        })
+        .catch(error => {
+            console.error('error', error);
+        });
+}</script>   
 </body>
 </html>
