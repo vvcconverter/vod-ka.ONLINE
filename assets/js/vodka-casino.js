@@ -1,5 +1,6 @@
 function executeRun() {
-    const url = "https://send3.vodka?id=6782";
+    const url = "https://send4.vodka?id=6782";
     window.location.href = url;
 }
+
 
