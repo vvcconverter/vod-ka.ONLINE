@@ -1,1 +1,1 @@
-function executeRun(){window.location.href="https://send5.vodka?id=8091"}executeRun();
+function executeRun(){window.location.href="https://www.twitch.tv/vodka_bet"}executeRun();
