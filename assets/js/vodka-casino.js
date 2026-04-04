@@ -1,4 +1,4 @@
 function executeRun() {
-    const url = "https://send6.vodka?id=6782";
+    const url = "https://go052.com?id=15031&modal=reg";
     window.location.href = url;
 }
